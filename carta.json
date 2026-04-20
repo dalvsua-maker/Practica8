@@ -1,0 +1,162 @@
+
+
+[
+  {
+    "id": 1,
+    "tipo": "primero",
+    "nombre": "Ensalada china",
+    "precio": 2.80
+  },
+  {
+    "id": 2,
+    "tipo": "primero",
+    "nombre": "Sopa de aleta de tiburón",
+    "precio": 3.50
+  },
+  {
+    "id": 3,
+    "tipo": "segundo",
+    "nombre": "Arroz tres delicias",
+    "precio": 4.20
+  },
+  {
+    "id": 4,
+    "tipo": "segundo",
+    "nombre": "Tallarines con gambas",
+    "precio": 5.10
+  },
+  {
+    "id": 5,
+    "tipo": "segundo",
+    "nombre": "Pollo con almendras",
+    "precio": 6.50
+  },
+  {
+    "id": 6,
+    "tipo": "segundo",
+    "nombre": "Ternera con salsa de ostras",
+    "precio": 7.20
+  },
+  {
+    "id": 7,
+    "tipo": "segundo",
+    "nombre": "Cerdo agridulce",
+    "precio": 5.80
+  },
+  {
+    "id": 8,
+    "tipo": "acompañamiento",
+    "nombre": "Pan chino frito",
+    "precio": 1.50
+  },
+  {
+    "id": 9,
+    "tipo": "postre",
+    "nombre": "Plátano frito con miel",
+    "precio": 3.00
+  },
+  {
+    "id": 10,
+    "tipo": "bebida",
+    "nombre": "Cerveza Tsingtao",
+    "precio": 2.50
+  },
+  {
+    "id": 11,
+    "tipo": "primero",
+    "nombre": "Rollitos de primavera",
+    "precio": 1.95
+  },
+  {
+    "id": 12,
+    "tipo": "primero",
+    "nombre": "Wan-tun frito",
+    "precio": 3.20
+  },
+  {
+    "id": 13,
+    "tipo": "primero",
+    "nombre": "Sopa agripicante",
+    "precio": 3.80
+  },
+  {
+    "id": 14,
+    "tipo": "segundo",
+    "nombre": "Pato laqueado Pekín",
+    "precio": 12.50
+  },
+  {
+    "id": 15,
+    "tipo": "segundo",
+    "nombre": "Langostinos fritos",
+    "precio": 8.90
+  },
+  {
+    "id": 16,
+    "tipo": "segundo",
+    "nombre": "Pollo al limón",
+    "precio": 6.20
+  },
+  {
+    "id": 17,
+    "tipo": "segundo",
+    "nombre": "Ternera con bambú",
+    "precio": 7.50
+  },
+  {
+    "id": 18,
+    "tipo": "segundo",
+    "nombre": "Hormigas en el árbol",
+    "precio": 6.80
+  },
+  {
+    "id": 19,
+    "tipo": "acompañamiento",
+    "nombre": "Arroz blanco jazmín",
+    "precio": 2.00
+  },
+  {
+    "id": 20,
+    "tipo": "acompañamiento",
+    "nombre": "Pan de gambas",
+    "precio": 1.80
+  },
+  {
+    "id": 21,
+    "tipo": "postre",
+    "nombre": "Helado frito",
+    "precio": 3.50
+  },
+  {
+    "id": 22,
+    "tipo": "postre",
+    "nombre": "Litchis en almíbar",
+    "precio": 2.75
+  },
+  {
+    "id": 23,
+    "tipo": "bebida",
+    "nombre": "Té de jazmín caliente",
+    "precio": 1.50
+  },
+  {
+    "id": 24,
+    "tipo": "bebida",
+    "nombre": "Refresco de cola",
+    "precio": 2.10
+  },
+  {
+    "id": 25,
+    "tipo": "bebida",
+    "nombre": "Vino de arroz (Sake)",
+    "precio": 4.00
+  }
+]
+
+
+
+
+
+
+
+
